@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="Tan_Ting_Hao_roslab" type="lidar_processing.py" name="lidar_processing" />
+  <include file="$(find f1tenth_simulator)/launch/simulator.launch" />
+</launch>
