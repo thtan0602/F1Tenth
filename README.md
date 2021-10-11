@@ -10,5 +10,5 @@ A Self-Driving Car Course
 ## Lab 3 ##
 -Link: https://youtu.be/itYfFNkMcD8
 
-## Lab 4 #3
+## Lab 4 ##
 -Link: https://youtu.be/7ZmUPnfFpms
